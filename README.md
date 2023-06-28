@@ -1,3 +1,3 @@
 # chess
 
-There is a chess game created ising sfml library.
+There is a chess game created using sfml library.
